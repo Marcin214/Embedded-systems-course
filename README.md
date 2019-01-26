@@ -1,2 +1,3 @@
-# ARM7TDMI_LPC2129
-My solutions to university classes covering: peripherals handling, FreeRTOS, communication interfaces
+# Embedded-systems-course
+
+Solutions for university classes covering basics of microcontrollers and peripherals, computer buses and RTOS working with ARM and Xmega microcontrollers.
